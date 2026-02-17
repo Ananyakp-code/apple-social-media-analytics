@@ -46,6 +46,25 @@ Located in the `/analysis` folder:
 - Pivot Tables
 - Charts & Data Visualization
 
+  apple-social-media-analytics/
+│
+├── data/
+│   ├── posts_cleaned.csv
+│   ├── engagement_summary_cleaned.csv
+│   ├── campaign_metadata_cleaned.csv
+│
+├── analysis/
+│   ├── engagement_analysis.csv
+│   ├── platform_analysis.csv
+│   ├── hashtag_analysis.csv
+│   ├── campaign_effectiveness.csv
+│   ├── follower_growth.csv
+│
+├── case-study.md
+├── README.md
+└── .gitignore
+
+
 ## Key Insights
 - Video content drives highest engagement on YouTube.
 - Instagram performs best for visual product content.
