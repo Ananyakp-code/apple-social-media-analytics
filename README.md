@@ -46,6 +46,8 @@ Located in the `/analysis` folder:
 - Pivot Tables
 - Charts & Data Visualization
 
+## Project Structure
+```
   apple-social-media-analytics/
 │
 ├── data/
@@ -64,6 +66,7 @@ Located in the `/analysis` folder:
 ├── README.md
 └── .gitignore
 
+```
 
 ## Key Insights
 - Video content drives highest engagement on YouTube.
