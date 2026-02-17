@@ -56,15 +56,10 @@ Located in the `/analysis` folder:
 │   ├── campaign_metadata_cleaned.csv
 │
 ├── analysis/
-│   ├── engagement_analysis.csv
-│   ├── platform_analysis.csv
-│   ├── hashtag_analysis.csv
-│   ├── campaign_effectiveness.csv
-│   ├── follower_growth.csv
+│   ├── analysis.xml
 │
 ├── case-study.md
-├── README.md
-└── .gitignore
+└── README.md
 
 ```
 
